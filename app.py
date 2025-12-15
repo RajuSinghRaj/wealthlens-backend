@@ -1,3 +1,4 @@
+# © 2025 Raju Singh Rajpurohit. All rights reserved.
 from flask import Flask, jsonify, request
 from flask_cors import CORS
 from calculations import calculate_investment

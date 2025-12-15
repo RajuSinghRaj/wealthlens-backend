@@ -1,3 +1,4 @@
+# © 2025 Raju Singh Rajpurohit. All rights reserved.
 def calculate_investment(
     monthly_amount,
     years,
